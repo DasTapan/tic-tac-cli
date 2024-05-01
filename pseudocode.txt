@@ -1,0 +1,10 @@
+# pseudocode
+
+- gote board rahiba, jou thire 2 jana kn mark dekeheiba
+- prathama ru nil thiba
+- 9ta ghara thiba
+- prati thara chihna dela pare nua board dekheiba
+- 2 jana kn chihna const rahiba
+- calculate karu thiba game over hela ki nai
+- 1ma jana ka X daba
+- 2ya jana ka O daba
